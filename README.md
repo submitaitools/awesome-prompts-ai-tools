@@ -18,6 +18,7 @@ This awesome list is curated by [SubmitAITools.org](https://submitaitools.org/) 
 - [PromptBase](https://promptbase.com/): Buy and sell high-quality AI prompts.
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): A vast collection of prebuilt prompts for various use cases.
 - [AIPRM](https://www.aiprm.com/): Community-driven prompt templates for SEO, marketing, and more.
+- [AI Image Lab](https://aiimagelab.art/): Free AI image generator with a curated prompt library across 8 categories. 4K output.
 
 ---
 
