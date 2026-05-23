@@ -56,6 +56,7 @@ This awesome list is curated by [SubmitAITools.org](https://submitaitools.org/) 
 ## 👨‍💻 Developer & Coding Prompts
 - [Code Prompts Library](https://github.com/Significant-Gravitas/Auto-GPT): Prompt templates for dev agents and GPT-based tools.
 - [Code Interpreter Prompts](https://github.com/microsoft/prompt-engine): Prompts for code generation and analysis.
+- [Agent Ops Prompt Generator](https://mysubb01.github.io/agent-ops-prompt-generator/): Local-first Korean prompt generator for AI coding agent operations, including incident triage, deploy smoke checks, code review, data correction, and handoff prompts.
 
 ---
 
