@@ -18,6 +18,7 @@ This awesome list is curated by [SubmitAITools.org](https://submitaitools.org/) 
 - [PromptBase](https://promptbase.com/): Buy and sell high-quality AI prompts.
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): A vast collection of prebuilt prompts for various use cases.
 - [AIPRM](https://www.aiprm.com/): Community-driven prompt templates for SEO, marketing, and more.
+- [AI Workflow Prompts Zh](https://github.com/Ronnie2025/ai-workflow-prompts-zh): Free Chinese AI workflow prompt library for Xiaohongshu content, meeting action items, client proposals, PPT outlines, SOPs, and retrospectives.
 
 ---
 
