@@ -68,5 +68,6 @@ This awesome list is curated by [SubmitAITools.org](https://submitaitools.org/) 
 ## 🌍 Multilingual & Translation Prompts
 - [DeepL Prompt Templates](https://www.deepl.com/write): Rewrite and translate prompts across multiple languages.
 - [Prompt Templates for Language Learning](https://github.com/promptslab/Awesome-Prompts): Use prompts to teach and learn languages.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
