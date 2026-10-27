@@ -25,6 +25,7 @@ This awesome list is curated by [SubmitAITools.org](https://submitaitools.org/) 
 - [Lexica](https://lexica.art/): Prompt search engine for Stable Diffusion.
 - [PromptHero](https://prompthero.com/): Prompt templates for Midjourney, DALL·E, and SD.
 - [Krea.ai](https://www.krea.ai/): AI prompt and image generation playground.
+- [PicGens](https://www.picgens.com/): Free gallery of AI image & photo prompts you can copy, with the picture, model, and creator link.
 
 ---
 
